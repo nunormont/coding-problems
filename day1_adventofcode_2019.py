@@ -1,13 +1,11 @@
 #problem of advent's day 1 from https://adventofcode.com/ (2019)
 
-
 import math
 f= open("input.txt","r")
 masses=f.readlines()
 all_fuel=0
 for i in masses:
     all_fuel+=math.floor(int(i)/3)-2
-
 print(all_fuel)
 
 #part 2:
