@@ -1,4 +1,4 @@
-#problem of day 1 of advent from https://adventofcode.com/
+#problem of advent's day 1 from https://adventofcode.com/ (2019)
 
 
 import math
